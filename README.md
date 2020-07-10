@@ -14,7 +14,7 @@ Install the npm packages with:
 
 Run the following command to start the application. This will use [expo.io](https://expo.io/) to build the application ready to be tested on iOS or Android. You can use the Expo app on either the iOS or Google Play store. Alternatively you can run the application using the simulator.
 
-`npm start`
+    npm start
 
 ## Yelp API
 
